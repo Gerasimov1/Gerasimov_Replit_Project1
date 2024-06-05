@@ -7,3 +7,4 @@ def filter_factorials(numbers):
                 factorials.append(temp)
         return [i for i in numbers if i in factorials]
 print(filter_factorials([1,2,3,4,5,6,7,8]))
+print("Даня") 
